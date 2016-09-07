@@ -9,6 +9,6 @@ Download [Node.js](https://nodejs.org/en/download/)
 
 In your Terminal while in the /calculator:
 
-npm install //node package manager
+npm install \\node package manager
 
-node server //see website at http://localhost:10001/
+node server \\see website at http://localhost:10001/
